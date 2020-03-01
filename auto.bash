@@ -4,5 +4,6 @@ now=$(date)
 
 git commit -m "Latest Save  "
 
-git push
+git push -u origin master
+
 
